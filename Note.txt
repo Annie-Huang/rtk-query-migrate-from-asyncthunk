@@ -1,0 +1,18 @@
+Redux Advanced Tutorial - React, Redux Toolkit, RTK Query Project
+https://www.youtube.com/watch?v=9P2IUx13MZI
+
+https://github.com/gitdagray/react_redux_toolkit
+The initial checking is the end of lesson 5 in the series, it's the same as
+    https://github.com/gitdagray/react_redux_toolkit/tree/main/05_lesson
+    Or
+    https://github.com/gitdagray/react_redux_toolkit/tree/main/07_lesson_starter
+    It's using createAsyncThunk in the Slice file.
+The end of the tutorial is https://github.com/gitdagray/react_redux_toolkit/tree/main/07_lesson
+
+Another simple RTK Query example is in
+    React Redux Toolkit Query Tutorial and RTK Query CRUD Example App
+    https://github.com/gitdagray/react_redux_toolkit/tree/main/06_lesson
+
+https://github.com/Annie-Huang/rtk-query-migrate-from-asyncthunk
+
+===========================================================================================
