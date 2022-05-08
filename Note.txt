@@ -16,3 +16,5 @@ Another simple RTK Query example is in
 https://github.com/Annie-Huang/rtk-query-migrate-from-asyncthunk
 
 ===========================================================================================
+
+PS C:\react\rtk-query-migrate-from-asyncthunk> json-server --watch data/db.json --port 3500
